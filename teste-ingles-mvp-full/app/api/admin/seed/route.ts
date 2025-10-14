@@ -2,14 +2,13 @@ import { NextRequest, NextResponse } from 'next/server'
 import { query } from '@/lib/db'
 import items from '@/data/questions.full.json'
 
-export const dynamic = 'force-dynamic' // garante que não será cacheado
+export const dynamic = 'force-dynamic'
 
 export async function GET(req: NextRequest){
   const secret = new URL(req.url).searchParams.get('secret')
   if(!secret || secret !== process.env.ADMIN_SEED_SECRET){
     return NextResponse.json({ error:'Unauthorized' }, { status: 401 })
   }
-
   let inserted = 0
   for (const q of items as any[]){
     await query(
