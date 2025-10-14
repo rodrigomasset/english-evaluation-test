@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import items from '@/data/questions.full.json'
+import { query } from '../../../lib/db'
+import items from '../../../data/questions.full.json'
 
 export const dynamic = 'force-dynamic'
 
