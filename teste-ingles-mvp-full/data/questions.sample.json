@@ -1,0 +1,170 @@
+[
+  {
+    "level": "basico1",
+    "prompt": "Complete: I ____ a student.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be",
+      "do"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basico1",
+    "prompt": "What is this? — It’s a ____.",
+    "options": [
+      "window",
+      "table",
+      "book",
+      "phone",
+      "chair"
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "basico1",
+    "prompt": "Choose the correct reply: 'How are you?'",
+    "options": [
+      "I am fine, thank you.",
+      "I have 20.",
+      "I from Brazil.",
+      "I am name Ana.",
+      "Me 25."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basico1",
+    "prompt": "They ____ from Brazil.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be",
+      "was"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basico1",
+    "prompt": "This is my ____.",
+    "options": [
+      "book",
+      "are",
+      "be",
+      "am",
+      "were"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basico1",
+    "prompt": "Complete: I ____ a student.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be",
+      "do"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basico1",
+    "prompt": "What is this? — It’s a ____.",
+    "options": [
+      "window",
+      "table",
+      "book",
+      "phone",
+      "chair"
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "basico1",
+    "prompt": "Choose the correct reply: 'How are you?'",
+    "options": [
+      "I am fine, thank you.",
+      "I have 20.",
+      "I from Brazil.",
+      "I am name Ana.",
+      "Me 25."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basico1",
+    "prompt": "They ____ from Brazil.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be",
+      "was"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basico1",
+    "prompt": "This is my ____.",
+    "options": [
+      "book",
+      "are",
+      "be",
+      "am",
+      "were"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basico1",
+    "prompt": "Complete: I ____ a student.",
+    "options": [
+      "is",
+      "am",
+      "are",
+      "be",
+      "do"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basico1",
+    "prompt": "What is this? — It’s a ____.",
+    "options": [
+      "window",
+      "table",
+      "book",
+      "phone",
+      "chair"
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "basico1",
+    "prompt": "Choose the correct reply: 'How are you?'",
+    "options": [
+      "I am fine, thank you.",
+      "I have 20.",
+      "I from Brazil.",
+      "I am name Ana.",
+      "Me 25."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basico1",
+    "prompt": "They ____ from Brazil.",
+    "options": [
+      "is",
+      "are",
+      "am",
+      "be",
+      "was"
+    ],
+    "correct_index": 1
+  }
+]
