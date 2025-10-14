@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { createToken } from '@/lib/auth'
+import { query } from '../../../lib/db'
+import { createToken } from '../../../lib/auth'
+
 export async function POST(req: NextRequest){
   const { email, password } = await req.json()
   const { rows } = await query<{id:number,password:string}>('SELECT id,password FROM masters WHERE email=$1',[email])
