@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { verifyToken } from '@/lib/auth'
-import { sendMail } from '@/lib/email'
+import { query } from '../../../../../lib/db'
+import { verifyToken } from '../../../../../lib/auth'
+import { sendMail } from '../../../../../lib/email'
 export async function POST(req: NextRequest, { params }: { params: { id: string } }){
   const token = req.cookies.get('auth')?.value
   const payload = token ? await verifyToken<{role:string,id:number}>(token) : null
