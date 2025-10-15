@@ -1,0 +1,2522 @@
+[
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ apple",
+    "options": [
+      "a apple",
+      "an apple",
+      "the apple",
+      "some apple",
+      "apple"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ orange",
+    "options": [
+      "a orange",
+      "an orange",
+      "the orange",
+      "some orange",
+      "orange"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ umbrella",
+    "options": [
+      "a umbrella",
+      "an umbrella",
+      "the umbrella",
+      "some umbrella",
+      "umbrella"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ book",
+    "options": [
+      "a book",
+      "an book",
+      "the book",
+      "some book",
+      "book"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ car",
+    "options": [
+      "a car",
+      "an car",
+      "the car",
+      "some car",
+      "car"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ egg",
+    "options": [
+      "a egg",
+      "an egg",
+      "the egg",
+      "some egg",
+      "egg"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ island",
+    "options": [
+      "a island",
+      "an island",
+      "the island",
+      "some island",
+      "island"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ cat",
+    "options": [
+      "a cat",
+      "an cat",
+      "the cat",
+      "some cat",
+      "cat"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ igloo",
+    "options": [
+      "a igloo",
+      "an igloo",
+      "the igloo",
+      "some igloo",
+      "igloo"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ house",
+    "options": [
+      "a house",
+      "an house",
+      "the house",
+      "some house",
+      "house"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ elephant",
+    "options": [
+      "a elephant",
+      "an elephant",
+      "the elephant",
+      "some elephant",
+      "elephant"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ bus",
+    "options": [
+      "a bus",
+      "an bus",
+      "the bus",
+      "some bus",
+      "bus"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ ant",
+    "options": [
+      "a ant",
+      "an ant",
+      "the ant",
+      "some ant",
+      "ant"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ octopus",
+    "options": [
+      "a octopus",
+      "an octopus",
+      "the octopus",
+      "some octopus",
+      "octopus"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic1",
+    "prompt": "Escolha o artigo correto para completar: ___ pilot",
+    "options": [
+      "a pilot",
+      "an pilot",
+      "the pilot",
+      "some pilot",
+      "pilot"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: I ___ happy.",
+    "options": [
+      "I am",
+      "I is",
+      "I are",
+      "I be",
+      "I been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: You ___ happy.",
+    "options": [
+      "You am",
+      "You is",
+      "You are",
+      "You be",
+      "You been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: He ___ happy.",
+    "options": [
+      "He am",
+      "He is",
+      "He are",
+      "He be",
+      "He been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: She ___ happy.",
+    "options": [
+      "She am",
+      "She is",
+      "She are",
+      "She be",
+      "She been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: We ___ happy.",
+    "options": [
+      "We am",
+      "We is",
+      "We are",
+      "We be",
+      "We been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: They ___ happy.",
+    "options": [
+      "They am",
+      "They is",
+      "They are",
+      "They be",
+      "They been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: I ___ happy.",
+    "options": [
+      "I am",
+      "I is",
+      "I are",
+      "I be",
+      "I been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: You ___ happy.",
+    "options": [
+      "You am",
+      "You is",
+      "You are",
+      "You be",
+      "You been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: He ___ happy.",
+    "options": [
+      "He am",
+      "He is",
+      "He are",
+      "He be",
+      "He been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: She ___ happy.",
+    "options": [
+      "She am",
+      "She is",
+      "She are",
+      "She be",
+      "She been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: We ___ happy.",
+    "options": [
+      "We am",
+      "We is",
+      "We are",
+      "We be",
+      "We been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: They ___ happy.",
+    "options": [
+      "They am",
+      "They is",
+      "They are",
+      "They be",
+      "They been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: I ___ happy.",
+    "options": [
+      "I am",
+      "I is",
+      "I are",
+      "I be",
+      "I been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: You ___ happy.",
+    "options": [
+      "You am",
+      "You is",
+      "You are",
+      "You be",
+      "You been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic1",
+    "prompt": "Complete com o verbo 'to be' no presente: He ___ happy.",
+    "options": [
+      "He am",
+      "He is",
+      "He are",
+      "He be",
+      "He been"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He work",
+      "He works",
+      "He workes",
+      "He works",
+      "He is work"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He study",
+      "He studies",
+      "He studyes",
+      "He studys",
+      "He is study"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He go",
+      "He goes",
+      "He goes",
+      "He gos",
+      "He is go"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He watch",
+      "He watches",
+      "He watches",
+      "He watchs",
+      "He is watch"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He play",
+      "He plays",
+      "He playes",
+      "He plays",
+      "He is play"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He work",
+      "He works",
+      "He workes",
+      "He works",
+      "He is work"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He study",
+      "He studies",
+      "He studyes",
+      "He studys",
+      "He is study"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He go",
+      "He goes",
+      "He goes",
+      "He gos",
+      "He is go"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He watch",
+      "He watches",
+      "He watches",
+      "He watchs",
+      "He is watch"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a forma correta no presente simples: He ___ every day.",
+    "options": [
+      "He play",
+      "He plays",
+      "He playes",
+      "He plays",
+      "He is play"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I always drink coffee.",
+      "I drink always coffee.",
+      "always I drink coffee.",
+      "I drink coffee alwaysly.",
+      "always drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I usually drink coffee.",
+      "I drink usually coffee.",
+      "usually I drink coffee.",
+      "I drink coffee usuallyly.",
+      "usually drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I often drink coffee.",
+      "I drink often coffee.",
+      "often I drink coffee.",
+      "I drink coffee oftenly.",
+      "often drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I sometimes drink coffee.",
+      "I drink sometimes coffee.",
+      "sometimes I drink coffee.",
+      "I drink coffee sometimesly.",
+      "sometimes drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I never drink coffee.",
+      "I drink never coffee.",
+      "never I drink coffee.",
+      "I drink coffee neverly.",
+      "never drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I always drink coffee.",
+      "I drink always coffee.",
+      "always I drink coffee.",
+      "I drink coffee alwaysly.",
+      "always drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I usually drink coffee.",
+      "I drink usually coffee.",
+      "usually I drink coffee.",
+      "I drink coffee usuallyly.",
+      "usually drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I often drink coffee.",
+      "I drink often coffee.",
+      "often I drink coffee.",
+      "I drink coffee oftenly.",
+      "often drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I sometimes drink coffee.",
+      "I drink sometimes coffee.",
+      "sometimes I drink coffee.",
+      "I drink coffee sometimesly.",
+      "sometimes drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a frase correta com advérbio de frequência:",
+    "options": [
+      "I never drink coffee.",
+      "I drink never coffee.",
+      "never I drink coffee.",
+      "I drink coffee neverly.",
+      "never drink I coffee."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ Monday",
+    "options": [
+      "in Monday",
+      "on Monday",
+      "at Monday",
+      "by Monday",
+      "for Monday"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ the morning",
+    "options": [
+      "in the morning",
+      "on the morning",
+      "at the morning",
+      "by the morning",
+      "for the morning"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ 7:30",
+    "options": [
+      "in 7:30",
+      "on 7:30",
+      "at 7:30",
+      "by 7:30",
+      "for 7:30"
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ April",
+    "options": [
+      "in April",
+      "on April",
+      "at April",
+      "by April",
+      "for April"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ the weekend",
+    "options": [
+      "in the weekend",
+      "on the weekend",
+      "at the weekend",
+      "by the weekend",
+      "for the weekend"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ Monday",
+    "options": [
+      "in Monday",
+      "on Monday",
+      "at Monday",
+      "by Monday",
+      "for Monday"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ the morning",
+    "options": [
+      "in the morning",
+      "on the morning",
+      "at the morning",
+      "by the morning",
+      "for the morning"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ 7:30",
+    "options": [
+      "in 7:30",
+      "on 7:30",
+      "at 7:30",
+      "by 7:30",
+      "for 7:30"
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ April",
+    "options": [
+      "in April",
+      "on April",
+      "at April",
+      "by April",
+      "for April"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "basic2",
+    "prompt": "Escolha a preposição correta: ___ the weekend",
+    "options": [
+      "in the weekend",
+      "on the weekend",
+      "at the weekend",
+      "by the weekend",
+      "for the weekend"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I go yesterday.",
+      "I went yesterday.",
+      "I have went yesterday.",
+      "I was go yesterday.",
+      "I did go yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I see yesterday.",
+      "I saw yesterday.",
+      "I have saw yesterday.",
+      "I was see yesterday.",
+      "I did see yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I eat yesterday.",
+      "I ate yesterday.",
+      "I have ate yesterday.",
+      "I was eat yesterday.",
+      "I did eat yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I have yesterday.",
+      "I had yesterday.",
+      "I have had yesterday.",
+      "I was have yesterday.",
+      "I did have yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I make yesterday.",
+      "I made yesterday.",
+      "I have made yesterday.",
+      "I was make yesterday.",
+      "I did make yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I take yesterday.",
+      "I took yesterday.",
+      "I have took yesterday.",
+      "I was take yesterday.",
+      "I did take yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I go yesterday.",
+      "I went yesterday.",
+      "I have went yesterday.",
+      "I was go yesterday.",
+      "I did go yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I see yesterday.",
+      "I saw yesterday.",
+      "I have saw yesterday.",
+      "I was see yesterday.",
+      "I did see yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I eat yesterday.",
+      "I ate yesterday.",
+      "I have ate yesterday.",
+      "I was eat yesterday.",
+      "I did eat yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha a frase correta no passado simples:",
+    "options": [
+      "I have yesterday.",
+      "I had yesterday.",
+      "I have had yesterday.",
+      "I was have yesterday.",
+      "I did have yesterday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is fast than Jim.",
+      "Tom is more fast than Jim.",
+      "Tom is faster than Jim.",
+      "Tom is the fast than Jim.",
+      "Tom is most fast than Jim."
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is big than Jim.",
+      "Tom is more big than Jim.",
+      "Tom is bigger than Jim.",
+      "Tom is the big than Jim.",
+      "Tom is most big than Jim."
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is happy than Jim.",
+      "Tom is more happy than Jim.",
+      "Tom is happier than Jim.",
+      "Tom is the happy than Jim.",
+      "Tom is most happy than Jim."
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is gooder than Jim.",
+      "Tom is more good than Jim.",
+      "Tom is best than Jim.",
+      "Tom is better than Jim.",
+      "Tom is the better than Jim."
+    ],
+    "correct_index": 3
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is badder than Jim.",
+      "Tom is more bad than Jim.",
+      "Tom is worst than Jim.",
+      "Tom is the worse than Jim.",
+      "Tom is worse than Jim."
+    ],
+    "correct_index": 4
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is fast than Jim.",
+      "Tom is more fast than Jim.",
+      "Tom is faster than Jim.",
+      "Tom is the fast than Jim.",
+      "Tom is most fast than Jim."
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is big than Jim.",
+      "Tom is more big than Jim.",
+      "Tom is bigger than Jim.",
+      "Tom is the big than Jim.",
+      "Tom is most big than Jim."
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is happy than Jim.",
+      "Tom is more happy than Jim.",
+      "Tom is happier than Jim.",
+      "Tom is the happy than Jim.",
+      "Tom is most happy than Jim."
+    ],
+    "correct_index": 2
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is gooder than Jim.",
+      "Tom is more good than Jim.",
+      "Tom is best than Jim.",
+      "Tom is better than Jim.",
+      "Tom is the better than Jim."
+    ],
+    "correct_index": 3
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Escolha o comparativo correto:",
+    "options": [
+      "Tom is badder than Jim.",
+      "Tom is more bad than Jim.",
+      "Tom is worst than Jim.",
+      "Tom is the worse than Jim.",
+      "Tom is worse than Jim."
+    ],
+    "correct_index": 4
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'walk'?",
+    "options": [
+      "walked",
+      "walked",
+      "walkd",
+      "walkt",
+      "has walked"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'clean'?",
+    "options": [
+      "cleaned",
+      "cleaned",
+      "cleand",
+      "cleant",
+      "has cleaned"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'plan'?",
+    "options": [
+      "planned",
+      "planed",
+      "pland",
+      "plant",
+      "has planned"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'try'?",
+    "options": [
+      "tried",
+      "tryed",
+      "tryd",
+      "tryt",
+      "has tried"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'stop'?",
+    "options": [
+      "stopped",
+      "stoped",
+      "stopd",
+      "stopt",
+      "has stopped"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'walk'?",
+    "options": [
+      "walked",
+      "walked",
+      "walkd",
+      "walkt",
+      "has walked"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'clean'?",
+    "options": [
+      "cleaned",
+      "cleaned",
+      "cleand",
+      "cleant",
+      "has cleaned"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'plan'?",
+    "options": [
+      "planned",
+      "planed",
+      "pland",
+      "plant",
+      "has planned"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'try'?",
+    "options": [
+      "tried",
+      "tryed",
+      "tryd",
+      "tryt",
+      "has tried"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate1",
+    "prompt": "Qual é o passado simples correto de 'stop'?",
+    "options": [
+      "stopped",
+      "stoped",
+      "stopd",
+      "stopt",
+      "has stopped"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a frase correta (present perfect):",
+    "options": [
+      "I have seen that movie.",
+      "I saw that movie since 2010.",
+      "I have saw that movie.",
+      "I seen that movie.",
+      "I have been see that movie."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for 2015.",
+      "I have lived here since 2015.",
+      "I live here for 2015.",
+      "I am living here since 2015.",
+      "I am lived here for 2015."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for two hours.",
+      "I have lived here since two hours.",
+      "I live here for two hours.",
+      "I am living here since two hours.",
+      "I am lived here for two hours."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for last year.",
+      "I have lived here since last year.",
+      "I live here for last year.",
+      "I am living here since last year.",
+      "I am lived here for last year."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for a long time.",
+      "I have lived here since a long time.",
+      "I live here for a long time.",
+      "I am living here since a long time.",
+      "I am lived here for a long time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for Monday.",
+      "I have lived here since Monday.",
+      "I live here for Monday.",
+      "I am living here since Monday.",
+      "I am lived here for Monday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for 2015.",
+      "I have lived here since 2015.",
+      "I live here for 2015.",
+      "I am living here since 2015.",
+      "I am lived here for 2015."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for two hours.",
+      "I have lived here since two hours.",
+      "I live here for two hours.",
+      "I am living here since two hours.",
+      "I am lived here for two hours."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for last year.",
+      "I have lived here since last year.",
+      "I live here for last year.",
+      "I am living here since last year.",
+      "I am lived here for last year."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for a long time.",
+      "I have lived here since a long time.",
+      "I live here for a long time.",
+      "I am living here since a long time.",
+      "I am lived here for a long time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Complete com for/since corretamente:",
+    "options": [
+      "I have lived here for Monday.",
+      "I have lived here since Monday.",
+      "I live here for Monday.",
+      "I am living here since Monday.",
+      "I am lived here for Monday."
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "many apples",
+      "many water",
+      "many cars",
+      "many money",
+      "many information"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "much apples",
+      "much water",
+      "much cars",
+      "much money",
+      "much information"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "few apples",
+      "few water",
+      "few cars",
+      "few money",
+      "few information"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "little apples",
+      "little water",
+      "little cars",
+      "little money",
+      "little information"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "a lot of apples",
+      "a lot of water",
+      "a lot of cars",
+      "a lot of money",
+      "a lot of information"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "many apples",
+      "many water",
+      "many cars",
+      "many money",
+      "many information"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "much apples",
+      "much water",
+      "much cars",
+      "much money",
+      "much information"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "few apples",
+      "few water",
+      "few cars",
+      "few money",
+      "few information"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "little apples",
+      "little water",
+      "little cars",
+      "little money",
+      "little information"
+    ],
+    "correct_index": 1
+  },
+  {
+    "level": "intermediate2",
+    "prompt": "Escolha a combinação adequada (many/much/few/little/a lot of):",
+    "options": [
+      "a lot of apples",
+      "a lot of water",
+      "a lot of cars",
+      "a lot of money",
+      "a lot of information"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a condicional correta (3ª condicional):",
+    "options": [
+      "If I had known, I would have called you.",
+      "If I would know, I would call you.",
+      "If I knew, I would have called you.",
+      "If I would have known, I called you.",
+      "If I know, I would have called you."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a frase correta (reported speech):",
+    "options": [
+      "He said that he was tired.",
+      "He said that he is tired.",
+      "He said me he was tired.",
+      "He told that he was tired.",
+      "He said that he were tired."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced1",
+    "prompt": "Escolha a oração relativa correta:",
+    "options": [
+      "The book that I bought is great.",
+      "The book what I bought is great.",
+      "The book which I bought it is great.",
+      "The book who I bought is great.",
+      "The book, that I bought, is great."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha a frase com inversão correta:",
+    "options": [
+      "Had I known, I would have acted differently.",
+      "I had known, I would have acted differently.",
+      "If had I known, I would have acted differently.",
+      "Had I knew, I would have acted differently.",
+      "If I would have known, I would have acted differently."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o modal perfeito correto:",
+    "options": [
+      "You needn't have come.",
+      "You didn't need had come.",
+      "You mustn't had come.",
+      "You shouldn't had come.",
+      "You needn't to come."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "advanced2",
+    "prompt": "Escolha o subjuntivo correto:",
+    "options": [
+      "I suggest that he be on time.",
+      "I suggest that he is on time.",
+      "I suggest him to be on time.",
+      "I suggest that he will be on time.",
+      "I suggest that he was on time."
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'break the ice'",
+    "options": [
+      "start a conversation in a tense situation",
+      "shatter frozen water",
+      "escape quickly",
+      "stop talking",
+      "become angry"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'hit the sack'",
+    "options": [
+      "go to bed",
+      "start working hard",
+      "give up",
+      "complain",
+      "eat a snack"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'spill the beans'",
+    "options": [
+      "reveal a secret",
+      "cook dinner",
+      "waste food",
+      "talk nonsense",
+      "start a fight"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'barking up the wrong tree'",
+    "options": [
+      "pursuing a mistaken line of thought",
+      "being very happy",
+      "working too hard",
+      "being lazy",
+      "acting friendly"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'cut corners'",
+    "options": [
+      "do something in the easiest or cheapest way",
+      "trim the lawn",
+      "avoid responsibility",
+      "be precise",
+      "get promoted"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'break the ice'",
+    "options": [
+      "start a conversation in a tense situation",
+      "shatter frozen water",
+      "escape quickly",
+      "stop talking",
+      "become angry"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'hit the sack'",
+    "options": [
+      "go to bed",
+      "start working hard",
+      "give up",
+      "complain",
+      "eat a snack"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'spill the beans'",
+    "options": [
+      "reveal a secret",
+      "cook dinner",
+      "waste food",
+      "talk nonsense",
+      "start a fight"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'barking up the wrong tree'",
+    "options": [
+      "pursuing a mistaken line of thought",
+      "being very happy",
+      "working too hard",
+      "being lazy",
+      "acting friendly"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'cut corners'",
+    "options": [
+      "do something in the easiest or cheapest way",
+      "trim the lawn",
+      "avoid responsibility",
+      "be precise",
+      "get promoted"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'break the ice'",
+    "options": [
+      "start a conversation in a tense situation",
+      "shatter frozen water",
+      "escape quickly",
+      "stop talking",
+      "become angry"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'hit the sack'",
+    "options": [
+      "go to bed",
+      "start working hard",
+      "give up",
+      "complain",
+      "eat a snack"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'spill the beans'",
+    "options": [
+      "reveal a secret",
+      "cook dinner",
+      "waste food",
+      "talk nonsense",
+      "start a fight"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'barking up the wrong tree'",
+    "options": [
+      "pursuing a mistaken line of thought",
+      "being very happy",
+      "working too hard",
+      "being lazy",
+      "acting friendly"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Escolha o significado do idiom: 'cut corners'",
+    "options": [
+      "do something in the easiest or cheapest way",
+      "trim the lawn",
+      "avoid responsibility",
+      "be precise",
+      "get promoted"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ progress",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ an effort",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ a decision",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ homework",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ a complaint",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ progress",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ an effort",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ a decision",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ homework",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ a complaint",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ progress",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ an effort",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ a decision",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ homework",
+    "options": [
+      "do",
+      "make",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  },
+  {
+    "level": "expert",
+    "prompt": "Complete a collocation corretamente: ___ a complaint",
+    "options": [
+      "make",
+      "do",
+      "have",
+      "take",
+      "give"
+    ],
+    "correct_index": 0
+  }
+]
