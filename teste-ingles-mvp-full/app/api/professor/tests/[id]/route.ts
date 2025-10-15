@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { verifyToken } from '@/lib/auth'
+import { query } from '../../../../lib/db'
+import { verifyToken } from '../../../../lib/auth'
 export async function GET(req: NextRequest, { params }: { params: { id: string } }){
   const token = req.cookies.get('auth')?.value
   const payload = token ? await verifyToken<{role:string,id:number}>(token) : null
