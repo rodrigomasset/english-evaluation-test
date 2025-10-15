@@ -112,6 +112,19 @@ const exported = {
   finalizeLevelFromAnswers,
   classify,
   labelForLevel,
+  LEVELS,
+  prevLevel,  
+}
+
+// === Compat c/ imports existentes nas rotas ===
+
+// Alias pedido pelas rotas (equivalente à ordem de níveis)
+export const LEVELS = LEVEL_ORDER
+
+// Nível anterior na ordem (com bound no início)
+export function prevLevel(level: LevelSlug): LevelSlug {
+  const idx = LEVEL_ORDER.indexOf(level)
+  return LEVEL_ORDER[Math.max(0, idx - 1)]
 }
 
 export default exported
