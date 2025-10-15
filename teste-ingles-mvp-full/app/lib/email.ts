@@ -28,3 +28,20 @@ export async function resendTest(to: string, studentName: string, html: string) 
   const subject = `Teste Inglês de ${studentName}`
   return sendEmail(to, subject, html)
 }
+
+// já existe:
+export async function sendEmail(to: string, subject: string, html: string) {
+  const info = await transporter.sendMail({
+    from: `"${FROM_NAME}" <${FROM_EMAIL}>`,
+    to,
+    subject,
+    html,
+  })
+  return info.messageId
+}
+
+// alias compatível com as rotas:
+export async function sendMail(args: { to: string; subject: string; html: string }) {
+  return sendEmail(args.to, args.subject, args.html)
+}
+
