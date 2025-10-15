@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { LEVELS, type Level } from '@/lib/levels'
-import { sendMail } from '@/lib/email'
+import { query } from '../../../lib/db'
+import { LEVELS, type Level } from '../../../lib/levels'
+import { sendMail } from '../../../lib/email'
 
 function indexToLevel(idx:number){ return LEVELS[Math.max(0,Math.min(LEVELS.length-1, idx))] as Level }
 
