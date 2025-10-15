@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { type Level, nextLevel, prevLevel } from '@/lib/levels'
+import { query } from '../../../lib/db'
+import { type Level, nextLevel, prevLevel } from '../../../lib/levels'
 
 export async function POST(req: NextRequest){
   const { test_id, question_id, chosen_option_index } = await req.json()
