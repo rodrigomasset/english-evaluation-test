@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { type Level } from '@/lib/levels'
+import { query } from '../../../lib/db'
+import { type Level } from '../../../lib/levels'
 
 export async function POST(req: NextRequest){
   const { searchParams } = new URL(req.url)
