@@ -10,6 +10,9 @@ export type LevelSlug =
   | 'advanced2'
   | 'expert'
 
+export type Level = LevelSlug
+
+
 // Ordem do mais fácil ao mais difícil
 export const LEVEL_ORDER: LevelSlug[] = [
   'basic1',
