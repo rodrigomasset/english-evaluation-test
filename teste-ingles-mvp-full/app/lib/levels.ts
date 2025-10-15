@@ -10,8 +10,8 @@ export type LevelSlug =
   | 'advanced2'
   | 'expert'
 
+// Alias de tipo para compatibilidade com imports existentes
 export type Level = LevelSlug
-
 
 // Ordem do mais fácil ao mais difícil
 export const LEVEL_ORDER: LevelSlug[] = [
@@ -43,18 +43,33 @@ export function initialLevel(): LevelSlug {
   return 'basic1'
 }
 
-// Regra adaptativa simples por “streak”:
-// - 2 acertos seguidos: sobe 1 nível (até o máximo)
-// - 2 erros seguidos: desce 1 nível (até o mínimo)
-// - caso contrário: mantém
+/**
+ * Regras adaptativas:
+ * - Overload 1 (simples): nextLevel(level) -> sobe 1 nível (com limite superior)
+ * - Overload 2 (avançado): nextLevel(current, correct, streakUp, streakDown) -> usa streaks e retorna objeto
+ */
+export function nextLevel(current: LevelSlug): LevelSlug
 export function nextLevel(
   current: LevelSlug,
   correct: boolean,
   streakUp: number,
   streakDown: number
-): { level: LevelSlug; streakUp: number; streakDown: number } {
-  let up = correct ? streakUp + 1 : 0
-  let down = correct ? 0 : streakDown + 1
+): { level: LevelSlug; streakUp: number; streakDown: number }
+export function nextLevel(
+  current: LevelSlug,
+  correct?: boolean,
+  streakUp?: number,
+  streakDown?: number
+): any {
+  // Modo simples: chamado como nextLevel(level) → retorna apenas o LevelSlug (sobe 1)
+  if (typeof correct === 'undefined') {
+    const idx = LEVEL_ORDER.indexOf(current)
+    return LEVEL_ORDER[Math.min(idx + 1, LEVEL_ORDER.length - 1)]
+  }
+
+  // Modo avançado: adaptativo com streaks
+  let up = correct ? (streakUp ?? 0) + 1 : 0
+  let down = correct ? 0 : (streakDown ?? 0) + 1
 
   const idx = LEVEL_ORDER.indexOf(current)
   let newIdx = idx
@@ -76,10 +91,23 @@ export function nextLevel(
 export const chooseNextLevel = nextLevel
 export const getNextLevel = nextLevel
 
+// === Compat c/ imports existentes nas rotas ===
+
+// Alias pedido pelas rotas (equivalente à ordem de níveis)
+export const LEVELS = LEVEL_ORDER
+
+// Nível anterior na ordem (com bound no início)
+export function prevLevel(level: LevelSlug): LevelSlug {
+  const idx = LEVEL_ORDER.indexOf(level)
+  return LEVEL_ORDER[Math.max(0, idx - 1)]
+}
+
 // Dado o histórico de {level, correct} das 15 perguntas,
 // calcula o nível final priorizando o último nível alcançado,
 // com ajuste leve por desempenho geral
-export function finalizeLevelFromAnswers(history: { level: LevelSlug; correct: boolean }[]): LevelSlug {
+export function finalizeLevelFromAnswers(
+  history: { level: LevelSlug; correct: boolean }[]
+): LevelSlug {
   if (!history || history.length === 0) return initialLevel()
 
   // último nível alcançado durante o fluxo
@@ -103,6 +131,7 @@ export function labelForLevel(level: LevelSlug): string {
   return LEVEL_LABELS[level]
 }
 
+// Export default opcional com os principais membros
 const exported = {
   LEVEL_ORDER,
   LEVEL_LABELS,
@@ -116,18 +145,7 @@ const exported = {
   classify,
   labelForLevel,
   LEVELS,
-  prevLevel,  
-}
-
-// === Compat c/ imports existentes nas rotas ===
-
-// Alias pedido pelas rotas (equivalente à ordem de níveis)
-export const LEVELS = LEVEL_ORDER
-
-// Nível anterior na ordem (com bound no início)
-export function prevLevel(level: LevelSlug): LevelSlug {
-  const idx = LEVEL_ORDER.indexOf(level)
-  return LEVEL_ORDER[Math.max(0, idx - 1)]
+  prevLevel,
 }
 
 export default exported
