@@ -1,6 +1,6 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { query } from '@/lib/db'
-import { verifyToken } from '@/lib/auth'
+import { query } from '../../../lib/db'
+import { verifyToken } from '../../../lib/auth'
 function nextCodeStr(prev: string|undefined){
   const n = prev? parseInt(prev,10)+1 : 1
   return String(n).padStart(2,'0')
