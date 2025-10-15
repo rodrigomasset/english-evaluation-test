@@ -11,9 +11,10 @@ export async function POST(req: NextRequest){
   if(!prof.rows[0]) return NextResponse.json({ error: 'Professor não encontrado' }, { status: 404 })
   if(student_password !== prof.rows[0].student_password) return NextResponse.json({ error: 'Senha do aluno inválida' }, { status: 401 })
 
-   import { initialLevel, type Level } from '../../../lib/levels'
-   // ...
-   const level: Level = initialLevel()
+import { initialLevel, type Level } from '../../../lib/levels'
+// ...
+const level: Level = initialLevel()
+
 
   const t = await query<{id:number}>(`INSERT INTO tests(professor_id,student_name,assigned_level,started_at) VALUES($1,$2,$3,now()) RETURNING id`,[prof.rows[0].id, name, level])
   const testId = t.rows[0].id
